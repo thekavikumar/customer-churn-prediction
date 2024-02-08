@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![React Version](https://img.shields.io/badge/react-17.0.2-blue)](https://reactjs.org/)
+[![React Version](https://img.shields.io/badge/react-18.2.0-blue)](https://reactjs.org/)
 
 Customer churn prediction is a machine learning project aimed at identifying customers who are likely to churn (i.e., stop using your service) based on historical data. This repository contains the code for training the predictive model using Python and deploying it with FastAPI for interaction with a React.js frontend.
 
